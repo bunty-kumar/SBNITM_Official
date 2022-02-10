@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SBNITM Official</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start">start</string>
+    <string name="close">close</string>
+    <string name="title_about_collage">The SBNITM Tale</string>
+    <string name="about_collage">Shri Bhawani Niketan Institute of Technology and Management
+        (SBNITM) – a premiere Engineering Institute, was established in the year 2009 through the
+        approvals and affiliations of AlCTE , New Delhi and Rajasthan Technical University, Kota.
+        The college is nestled in the 350 acres campus of Shri Bhawani Niketan Shiksha Samiti,
+        situated in the heart of city with close proximity of Bus stand, Railway station, shopping
+        centers hospitals etc. The campus building is inspired by Rajasthan heritage which makes it
+        very beautiful and alluring.
+ </string>
+
+    <string name="mission">To teach and train students to make them competent engineering professionals
+        and good citizens with strong, moral and ethical values by constantly upgrading technical
+        infrastructure, improving teaching-learning process and having vibrant institute industry interaction.</string>
+
+    <string name="vision">To develop SBNITM into a centre of excellence for techno managerial education
+        of global standards, having superior professional skill with strong ethical values to meet the
+        engineering needs of the society and the nation.</string>
+
+    <string name="collageaddress">Address :- Sikar Road, near Maharao Shekha Circle, Jaipur, Rajasthan 302039</string>
+    <string name="collagename">Shri Bhawani Niketan Institute Of Technology and Management</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_video"
+        android:title="Video Lectures"/>
+
+    <item android:id="@+id/navigation_ebook"
+        android:icon="@drawable/ic_ebook"
+        android:title="Ebook"/>
+
+    <item android:id="@+id/navigation_website"
+        android:icon="@drawable/ic_web"
+        android:title="our Website"/>
+
+    <item android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share"
+        android:title="Share App"/>
+
+    <item android:id="@+id/navigation_rateus"
+        android:icon="@drawable/ic_rate_us"
+        android:title="Rate"/>
+
+    <item android:id="@+id/navigation_developer"
+        android:icon="@drawable/ic_developer"
+        android:title="Developer"/>
+</menu>

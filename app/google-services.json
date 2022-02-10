@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "811800324155",
+    "firebase_url": "https://collage-app-java-default-rtdb.firebaseio.com",
+    "project_id": "collage-app-java",
+    "storage_bucket": "collage-app-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811800324155:android:5a523fccd5735d1639541e",
+        "android_client_info": {
+          "package_name": "com.bunty.admincollageappusingjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811800324155-k6mj1hjvnf9mtoitci7iu2fjg5evk7vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpR14cFdQ9nZsTdmL2zwEv8E1H02Z-FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811800324155-k6mj1hjvnf9mtoitci7iu2fjg5evk7vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811800324155:android:53c3f77af792541239541e",
+        "android_client_info": {
+          "package_name": "com.bunty.sbnitmofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811800324155-k6mj1hjvnf9mtoitci7iu2fjg5evk7vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpR14cFdQ9nZsTdmL2zwEv8E1H02Z-FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811800324155-k6mj1hjvnf9mtoitci7iu2fjg5evk7vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
